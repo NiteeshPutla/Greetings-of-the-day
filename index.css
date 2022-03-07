@@ -22,7 +22,8 @@ h1{
 }
 #good{
     display: flex;
-    flex-grow: inherit;
+    height: fit-content;
+    width: fit-content;
     margin:1em auto;
     font-size:100px;
     padding: 32px 10px;
