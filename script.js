@@ -15,7 +15,7 @@ const button=document.querySelector('button')
       else if(clock<22){
           greeting="Good Evening"
       }
-      else if(clock<23 || clock===23){
+      else if(clock<23 || clock==23){
           greeting="Good Night"
       }
       
